@@ -12,7 +12,9 @@ window.onload = function fetchStudents() {
     .then((data) => {
       data.forEach((student) => {
         tableBody.innerHTML += `<tr>
-        <th scope="row">${Math.floor(Math.random() * 101) + 1}</th>
+        <th scope="row">${
+          student.rollNo || Math.floor(Math.random() * 101) + 1
+        }</th>
         <td>${student.firstName}</td>
         <td>${student.lastName}</td>
         <td><a href=${
