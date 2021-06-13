@@ -1,0 +1,20 @@
+[
+  {
+    "no": 1,
+    "firstName": "Sachin",
+    "lastName": "Chaurasiya",
+    "gitHubUrl": "https://github.com/Sachin-chauraiysa"
+  },
+  {
+    "no": 2,
+    "firstName": "Deppak",
+    "lastName": "Mishra",
+    "gitHubUrl": "https://github.com/Deppak-mishra"
+  },
+  {
+    "no": 3,
+    "firstName": "Abhijit",
+    "lastName": "Roy",
+    "gitHubUrl": "https://github.com/Abhijit-roy"
+  }
+]
