@@ -1,10 +1,4 @@
 const tableBody = document.querySelector(".table-body");
-const row = `<tr>
-<th scope="row">1</th>
-<td>Mark</td>
-<td>Otto</td>
-<td>https://github.com/Sachin-chaurasiya</td>
-</tr>`;
 
 window.onload = function fetchStudents() {
   fetch("./js/data.json")
