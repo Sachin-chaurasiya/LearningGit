@@ -18,7 +18,7 @@ click on the `fork` button to fork this repo
 
  $ cd directory_name (replace directory_name with your directory where you want to clone this repo)
  
- $ git clone https://github.com/Sachin-chaurasiya/LearningGit.git
+ $ git clone https://github.com/<your_username>/LearningGit.git
  
  $ cd LearningGit
  
